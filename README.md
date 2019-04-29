@@ -8,5 +8,6 @@ After that, edit the textBox2.Text property to be the path to your login.php
 
 Finally edit your Client.cs to have the private IP address of your network adapter if it is running on the same network OR enter the public IP address of the server (requires port forwarding)
 
-## Issue Reporting
-If you have issues with this repo or have questions, DM me on Discord: Thaisen#9999
+## Issue Reporting & Support
+I have made a new Discord for support: https://discord.gg/J8HNrPG
+My current account is Thaisen#9999
