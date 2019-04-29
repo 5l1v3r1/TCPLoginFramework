@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "TCP Login Handler\Server.csproj", "{ADD11B79-F28D-4673-A4EB-C4A27189E321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9DCF484D-F6AA-4911-8BC8-7569D9CD4922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD11B79-F28D-4673-A4EB-C4A27189E321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD11B79-F28D-4673-A4EB-C4A27189E321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD11B79-F28D-4673-A4EB-C4A27189E321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD11B79-F28D-4673-A4EB-C4A27189E321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCF484D-F6AA-4911-8BC8-7569D9CD4922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCF484D-F6AA-4911-8BC8-7569D9CD4922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCF484D-F6AA-4911-8BC8-7569D9CD4922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCF484D-F6AA-4911-8BC8-7569D9CD4922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912D3E6D-7D19-490F-8476-1A20D6E78855}
+	EndGlobalSection
+EndGlobal
