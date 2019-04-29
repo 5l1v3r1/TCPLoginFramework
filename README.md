@@ -10,4 +10,5 @@ Finally edit your Client.cs to have the private IP address of your network adapt
 
 ## Issue Reporting & Support
 I have made a new Discord for support: https://discord.gg/J8HNrPG
+
 My current account is Thaisen#9999
